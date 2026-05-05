@@ -9,7 +9,7 @@ Deskripsi
 project web sederhana berbasis PHP dan MYSQL untuk mengelola CRUD (Create,Read,Update,Delete) data kategori buku perpustakaan. 
 
 Cara menjalankan aplikasi
-1. Clone atau download zip repository ini.
+1. Download file projek ini.
 2. Taruh foldernya ke dalam folde htdocs.
 3. Buka phpMyAdmin, kemudian buat database dengan nama uts_perpustakaan_60324001.
 4. Import file database_backup.sql yang ada di repo ini ke dalam database tersebut.
